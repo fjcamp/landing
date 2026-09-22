@@ -51,3 +51,8 @@ Here are a few suggestions on what to do next if you're new to Netlify Visual Ed
 ## Support
 
 If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+
+## AI Collaboration & Continuity
+This repository is legacy/continuity material. Read docs/AI_HANDOFF.md before making changes. The current JoinHook site source of truth is not this repository.
+
+**Rule:** preserve historical traceability; do not silently repurpose the legacy repository.
